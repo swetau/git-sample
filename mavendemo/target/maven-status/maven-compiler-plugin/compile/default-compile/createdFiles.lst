@@ -1,0 +1,10 @@
+com\selenium\commons\DataSheet.class
+com\selenium\commons\ReadExcel.class
+com\selenium\commons\CommonCode$1.class
+com\presta\pages\LoginPage.class
+com\presta\pages\SummaryPage.class
+com\selenium\commons\CommonCode$2.class
+com\selenium\commons\Configuration.class
+com\selenium\commons\CommonCode.class
+com\selenium\commons\Screenshot.class
+com\presta\pages\HomePage.class

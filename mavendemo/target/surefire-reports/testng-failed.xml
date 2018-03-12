@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.presta.tests.SmokeTest]">
+  <test name="Command line test(failed)">
+    <groups>
+      <run>
+        <include name="1"/>
+        <include name="2"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.presta.tests.SmokeTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="alogin_Positive"/>
+          <include name="loginToApp"/>
+        </methods>
+      </class> <!-- com.presta.tests.SmokeTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.presta.tests.SmokeTest] -->
